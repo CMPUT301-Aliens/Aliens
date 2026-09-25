@@ -1,4 +1,5 @@
 package com.example.aliens
 
-class Triangle {
+class Triangle (x:Int, y:Int): Shape() {
+
 }
