@@ -1,2 +1,6 @@
-package com.example.aliens 
+package com.example.aliens
 
+abstract class Shape  {
+    var x : Int = 0
+    var y : Int = 0
+}
